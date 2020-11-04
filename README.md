@@ -1,0 +1,2 @@
+# manoPirmasProjektas
+Mano pavyzdinis projektas
